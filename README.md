@@ -1,0 +1,7 @@
+## This is a website for using Education Purpose.
+
+<!-- One of the oldest civilisations in the world, India is a mosaic of multicultural experiences. With a rich heritage and myriad attractions, the country is among the most popular tourist destinations in the world. 
+
+India is one of the oldest countries in the world, full of charming and attractive historical sites and challenging and mysterious stories that were laid in the foundation of Indian cities, regions and even buildings. India is the country of contrasts from architectural and cultural perspectives. If you want to amuse yourself with food, culture, language, clothing and various traditions, India is the right place for you to visit. With the population of over one billion people, India is very multicultural and each of the twenty eight states in the country has its unique identity that determines and directs its history.
+
+India is the motherland of such famous people as Mahatma Ghandi, Siddhartha, Tata and the others. Everybody knows and heard the names of Taj Mahal, Mumbai, Great Indian Himalayas and Bengal Tiger, which became the icons of India tourism. For those who prefer beach and sun tourism India is ready to offer famous Goa and Kerala Beaches with more than hundred kilometres long sea line. -->
