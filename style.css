@@ -14,3 +14,9 @@ nav{
     width: 100%;
     border-radius: 50px;
 }
+.carousel {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
